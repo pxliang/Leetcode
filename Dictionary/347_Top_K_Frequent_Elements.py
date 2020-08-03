@@ -18,3 +18,15 @@ class Solution:
                 result.append(j)
 
         return result
+
+
+### return only k elements
+from collections import Counter, defaultdict
+
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        dic = Counter(nums)
+
+        result = sorted(dic.keys(), key=lambda x: dic[x], reverse=True)
+
+        return result[:k]
