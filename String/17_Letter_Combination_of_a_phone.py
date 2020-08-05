@@ -41,4 +41,4 @@ class Solution:
                 word += s
             output.append(word)
 
-        return output 
+        return output
