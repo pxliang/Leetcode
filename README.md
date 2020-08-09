@@ -10,6 +10,6 @@
 |8.5|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/42_Trapping_Rain_Water.py)|Hard|
 |8.6|311|[Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)|[Python](https://github.com/pxliang/Leetcode/blob/master/List/311_Sparse_Matrix_Multiplication.py)|Medium|
 |8.7|350|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Dictionary/350_Intersection_of_Two_Arrays.py)|Easy|
-|8.8|65|[Valid Number](https://leetcode.com/problems/valid-number/)|[Python]()|Hard|
+|8.8|65|[Valid Number](https://leetcode.com/problems/valid-number/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/65_Valid_Number.py)|Hard|
 
 
