@@ -12,5 +12,6 @@
 |8.7|350|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Dictionary/350_Intersection_of_Two_Arrays.py)|Easy|
 |8.8|65|[Valid Number](https://leetcode.com/problems/valid-number/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/65_Valid_Number.py)|Hard|
 |8.9|282|[Expression Add operations](https://leetcode.com/problems/expression-add-operators/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/282_Expression_Add_Operations.py)|Hard|
+|8.9|339|[339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[Python]()|Easy|
 
 
