@@ -13,6 +13,7 @@
 |8.8|65|[Valid Number](https://leetcode.com/problems/valid-number/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/65_Valid_Number.py)|Hard|
 |8.9|282|[Expression Add operations](https://leetcode.com/problems/expression-add-operators/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/282_Expression_Add_Operations.py)|Hard|
 |8.9|339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Recursive/339_Nested_List_Weight_Sum.py)|Easy|
-|8.10|528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Python]()|Medium|
+|8.10|528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Python](https://github.com/pxliang/Leetcode/blob/master/BinarySearch/528_Random_Pick_with_Weight.py)|Medium|
+|8.10|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Python]()|Medium|
 
 
