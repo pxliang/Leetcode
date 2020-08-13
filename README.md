@@ -16,5 +16,6 @@
 |8.10|528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Python](https://github.com/pxliang/Leetcode/blob/master/BinarySearch/528_Random_Pick_with_Weight.py)|Medium|
 |8.10|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/670_Maximum_Swap.py)|Medium|
 |8.11|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Tree/938_Range_Sum_of_BST.py)|Easy|
+|8.12|1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Python]()|Medium|
 
 
