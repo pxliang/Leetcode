@@ -18,6 +18,6 @@
 |8.11|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Tree/938_Range_Sum_of_BST.py)|Easy|
 |8.12|1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Array/1060_Missing_Element_in_Sorted_Array.py)|Medium|
 |8.15|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Tree/1026_Maximum_Difference_Between_Nodes_and_Ancestor.py)|Medium|
-|8.15|1428|[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/)|[Python]()|Medium|
+|8.15|1428|[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Array/1428_Leftmost_Column_with_at_least_a_one.py)|Medium|
 
 
