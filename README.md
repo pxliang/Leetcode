@@ -21,5 +21,6 @@
 |8.15|1428|[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Array/1428_Leftmost_Column_with_at_least_a_one.py)|Medium|
 |8.16|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Dictionary/299_Bulls_and_Cows.py)|Easy|
 |8.17|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](https://github.com/pxliang/Leetcode/blob/master/BinarySearch/57_Insert_Intervals.py)|Hard|
+|8.18|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[Python]()|Easy|
 
 
