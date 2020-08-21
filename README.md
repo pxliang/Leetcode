@@ -23,6 +23,6 @@
 |8.17|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](https://github.com/pxliang/Leetcode/blob/master/BinarySearch/57_Insert_Intervals.py)|Hard|
 |8.18|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Queue/346_Moving_Average_from_Data_Stream.py)|Easy|
 |8.19|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/337_House_Robber_III.py)|Medium|
-|8.20|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python]()|Medium|
+|8.20|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Graph/127_Word_Ladder.py)|Medium|
 
 
