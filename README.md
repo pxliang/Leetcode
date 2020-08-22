@@ -25,6 +25,6 @@
 |8.19|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/337_House_Robber_III.py)|Medium|
 |8.20|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Graph/127_Word_Ladder.py)|Medium|
 |8.22|394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/394_Decode_String.py)|Medium|
-|8.22|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Python]()|Easy|
+|8.22|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Dictionary/359_Logger_Rate_Limiter.py)|Easy|
 
 
