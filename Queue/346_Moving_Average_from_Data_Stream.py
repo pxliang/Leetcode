@@ -22,4 +22,3 @@ class MovingAverage:
             self.q.put(val)
             self.sum += val
             return self.sum / self.q.qsize()
-        
