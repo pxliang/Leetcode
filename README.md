@@ -26,5 +26,6 @@
 |8.20|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Graph/127_Word_Ladder.py)|Medium|
 |8.22|394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/394_Decode_String.py)|Medium|
 |8.22|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Dictionary/359_Logger_Rate_Limiter.py)|Easy|
+|8.23|315|[Count of Smaller Numbers After self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python]()|Hard|
 
 
