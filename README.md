@@ -27,6 +27,6 @@
 |8.22|394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/394_Decode_String.py)|Medium|
 |8.22|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Dictionary/359_Logger_Rate_Limiter.py)|Easy|
 |8.23|315|[Count of Smaller Numbers After self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python](https://github.com/pxliang/Leetcode/blob/master/BinarySearch/315_Count_of_Smaller_Numbers_after_Self.py)|Hard|
-|8.26|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python]()|Hard|
+|8.26|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/224_Basic_Calculator.py)|Hard|
 
 
