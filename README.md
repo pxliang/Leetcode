@@ -29,6 +29,6 @@
 |25|8.23|315|[Count of Smaller Numbers After self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python](https://github.com/pxliang/Leetcode/blob/master/BinarySearch/315_Count_of_Smaller_Numbers_after_Self.py)|Hard|
 |26|8.26|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/224_Basic_Calculator.py)|Hard|
 |27|8.28|362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|[Python](https://github.com/pxliang/Leetcode/blob/master/BinarySearch/362_Design_Hit_Design.py)|Medium|
-|28|8.27|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Graph/399_Evaluate_Division.py)|Medium|
+|28|8.29|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Graph/399_Evaluate_Division.py)|Medium|
 
 
