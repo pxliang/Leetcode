@@ -1,7 +1,7 @@
 # Leetcode
 
 <details><summary> August</summary><div>
-```  
+ 
 || **Date** | **#** | **Title** |**Solution** | **Difficuly** |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|7.30|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/290_WordPattern.py)|Easy|
@@ -34,7 +34,7 @@
 |28|8.29|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Graph/399_Evaluate_Division.py)|Medium|
 |29|8.30|690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Tree/690_Employee_Importance.py)|Easy|
 |30|8.31|727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/727_Minimum_Window_Subequence.py)|Hard|
- ```
-  </div></details>
+
+ </div></details>
 
 
