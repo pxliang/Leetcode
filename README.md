@@ -34,6 +34,7 @@
 |28|8.29|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Graph/399_Evaluate_Division.py)|Medium|
 |29|8.30|690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Tree/690_Employee_Importance.py)|Easy|
 |30|8.31|727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/727_Minimum_Window_Subequence.py)|Hard|
+|31|8.31|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Python]()|Hard|
 
  </div></details>
 
