@@ -38,4 +38,11 @@
 
  </div></details>
 
+<details><summary> August</summary><div>
+ 
+|| **Date** | **#** | **Title** |**Solution** | **Difficuly** |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|32|9.1|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python]()|Medium|
+|33|9.1|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python]()|Medium|
+</div></details>
 
