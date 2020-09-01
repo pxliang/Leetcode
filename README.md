@@ -38,11 +38,11 @@
 
  </div></details>
 
-<details><summary> August</summary><div>
+<details><summary> September </summary><div>
  
 || **Date** | **#** | **Title** |**Solution** | **Difficuly** |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |32|9.1|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python]()|Medium|
-|33|9.1|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python]()|Medium|
+|33|9.1|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python](https://github.com/pxliang/Leetcode/blob/master/BinarySearch/729_My_Calendar_I.py)|Medium|
 </div></details>
 
