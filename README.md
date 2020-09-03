@@ -44,5 +44,6 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |32|9.1|752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/752_Open_the_Lock.py)|Medium|
 |33|9.1|729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python](https://github.com/pxliang/Leetcode/blob/master/BinarySearch/729_My_Calendar_I.py)|Medium|
+|34|9.2|833|[Find and Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)|[Python]()|Medium|
 </div></details>
 
