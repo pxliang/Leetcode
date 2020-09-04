@@ -46,5 +46,6 @@
 |33|9.1|729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python](https://github.com/pxliang/Leetcode/blob/master/BinarySearch/729_My_Calendar_I.py)|Medium|
 |34|9.2|833|[Find and Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/833_Find_and_Replace_in_String.py)|Medium|
 |35|9.2|809|[Expressive Words](https://leetcode.com/problems/expressive-words/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/809_Expressive_Words.py)|Medium|
+|36|9.3|846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Python]()|Medium|
 </div></details>
 
