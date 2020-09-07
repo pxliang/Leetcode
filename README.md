@@ -50,7 +50,7 @@
 |37|9.4|722|[Remove Comments](https://leetcode.com/problems/remove-comments/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/722_Remove_Comments.py)|Medium|
 |38|9.5|659|[Split Arrays into Consectuive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Greedy/659_Split_Array_into_Consectuive_Subsequences.py)|Medium|
 |39|9.5|946|[validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/946_Validate_Stack_Sequences.py)|Medium|
-|40|9.6|833|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python]()|Easy|
+|40|9.6|833|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/844_Backspace_String_Compare.py)|Easy|
 |41|9.7|1031|[Maximum Sum of Two NOn-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Python]()|Medium|
 </div></details>
 
