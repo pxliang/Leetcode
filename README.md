@@ -52,5 +52,6 @@
 |39|9.5|946|[validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/946_Validate_Stack_Sequences.py)|Medium|
 |40|9.6|833|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/844_Backspace_String_Compare.py)|Easy|
 |41|9.7|1031|[Maximum Sum of Two NOn-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Array/1031_Maximum_Sum_of_Two_Non-Overlapping_Subarrays.py)|Medium|
+|42|9.8|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Python]()|Medium|
 </div></details>
 
