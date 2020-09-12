@@ -21,39 +21,3 @@ class Solution:
                        or (Check(node1.left, node2.right) and Check(node1.right, node2.left))
 
         return Check(root1, root2)
-
-
-###recursive
-
-class Solution:
-    def delNodes(self, root: TreeNode, to_delete: List[int]) -> List[TreeNode]:
-
-        result = []
-
-        def Process(root):
-            if not root:
-                return None
-            if root.val in to_delete:
-                node_l = Process(root.left)
-                if node_l:
-                    result.append(node_l)
-                node_r = Process(root.right)
-                if node_r:
-                    result.append(node_r)
-                return None
-            else:
-                if not Process(root.left):
-                    root.left = None
-                if not Process(root.right):
-                    root.right = None
-                return root
-
-        node = Process(root)
-        if node:
-            result.append(node)
-        return result
-
-'''
-comments:
-1. delete a node, need to let its parent know
-'''
