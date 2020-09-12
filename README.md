@@ -53,6 +53,6 @@
 |40|9.6|833|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/844_Backspace_String_Compare.py)|Easy|
 |41|9.7|1031|[Maximum Sum of Two NOn-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Array/1031_Maximum_Sum_of_Two_Non-Overlapping_Subarrays.py)|Medium|
 |42|9.8|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Recursive/652_Find_Duplicate_Subtrees.py)|Medium|
+|43|9.9|951|[Flip Equivalent Binary Tree](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Recursive/951_Flip_Equivalent_Binary_Tree.py)|Medium|
 </div></details>
-|43|9.9|951|[Flip Equivalent Binary Tree](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Python]()|Medium|
 
