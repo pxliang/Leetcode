@@ -55,8 +55,8 @@
 |42|9.8|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Recursive/652_Find_Duplicate_Subtrees.py)|Medium|
 |43|9.9|951|[Flip Equivalent Binary Tree](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Recursive/951_Flip_Equivalent_Binary_Tree.py)|Medium|
 |44|9.9|1110|[Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Recursive/1110_Delete_Nodes_and_Return_Forest.py)|Medium|
-|45|9.12|221|[Maximum Square](https://leetcode.com/problems/maximal-square/)|[Python]()|Medium|
-|46|9.12|877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Python]()|Medium|
-|47|9.13|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Python]()|Medium|
+|45|9.12|221|[Maximum Square](https://leetcode.com/problems/maximal-square/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/221_Maximal_Square.py)|Medium|
+|46|9.12|877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/877_Stone_Game.py)|Medium|
+|47|9.13|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/227_Basic_Calculator_II.py)|Medium|
 </div></details>
 
