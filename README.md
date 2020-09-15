@@ -58,5 +58,11 @@
 |45|9.12|221|[Maximum Square](https://leetcode.com/problems/maximal-square/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/221_Maximal_Square.py)|Medium|
 |46|9.12|877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/877_Stone_Game.py)|Medium|
 |47|9.13|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/227_Basic_Calculator_II.py)|Medium|
+|48|9.14|1140|[Stone GameI I](https://leetcode.com/problems/stone-game-ii/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/1140_Stone_Game_II.py)|Medium|
+|49|9.14|84|[Largest rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Python](https://github.com/pxliang/Leetcode/tree/master/Stack)|Hard|
+|50|9.14|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/85_Maximal_Rectangle.py)|Hard|
+|51|9.14|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Graph/1048_Longest_String_Chain.py)|Medium|
+|52|9.14|1296|[Divide Array in Sets in K Consectuive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Dictionary/1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.py)|Medium|
+
 </div></details>
 
