@@ -65,6 +65,8 @@
 |52|9.14|1296|[Divide Array in Sets in K Consectuive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Dictionary/1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.py)|Medium|
 |53|9.15|1423|[Maximum Points You can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](https://github.com/pxliang/Leetcode/blob/master/SlidingWindow/1423_Maximum_Points_You_can_Obtain_from_Cards.py)|Medium|
 |54|9.17|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Python](https://github.com/pxliang/Leetcode/blob/master/SlidingWindow/239_Sliding_Window_Maximum.py)|Hard|
+|55|9.19|1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[Python](https://github.com/pxliang/Leetcode/blob/master/SlidingWindow/1438_Longest_Continuous_Subarray_with_Absolute_Diff_less_than_or_Equal_to_Limit.py)|Medium|
+|56|9.19|1477|[Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)|[Python](https://github.com/pxliang/Leetcode/blob/master/SlidingWindow/1477_Find_Two_Non-overlapping_Subarrays_Each_with_Target_Sum.py)|Medium|
 
 </div></details>
 
