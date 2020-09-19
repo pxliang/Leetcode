@@ -63,6 +63,8 @@
 |50|9.14|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Stack/85_Maximal_Rectangle.py)|Hard|
 |51|9.14|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Graph/1048_Longest_String_Chain.py)|Medium|
 |52|9.14|1296|[Divide Array in Sets in K Consectuive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Dictionary/1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.py)|Medium|
+|53|9.15|1423|[Maximum Points You can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](https://github.com/pxliang/Leetcode/blob/master/SlidingWindow/1423_Maximum_Points_You_can_Obtain_from_Cards.py)|Medium|
+|54|9.17|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Python](https://github.com/pxliang/Leetcode/blob/master/SlidingWindow/239_Sliding_Window_Maximum.py)|Hard|
 
 </div></details>
 
