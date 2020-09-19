@@ -34,3 +34,8 @@ class Solution:
         if nums[max_stack[0]] - nums[min_stack[0]] <= limit:
             result = max(result, right - left + 1)
         return result
+
+'''
+comments:
+1. process the left part in the queue when the while loop terminate
+'''
