@@ -67,6 +67,8 @@
 |54|9.17|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Python](https://github.com/pxliang/Leetcode/blob/master/SlidingWindow/239_Sliding_Window_Maximum.py)|Hard|
 |55|9.19|1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[Python](https://github.com/pxliang/Leetcode/blob/master/SlidingWindow/1438_Longest_Continuous_Subarray_with_Absolute_Diff_less_than_or_Equal_to_Limit.py)|Medium|
 |56|9.19|1477|[Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)|[Python](https://github.com/pxliang/Leetcode/blob/master/SlidingWindow/1477_Find_Two_Non-overlapping_Subarrays_Each_with_Target_Sum.py)|Medium|
+|57|9.20|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/pxliang/Leetcode/blob/master/SlidingWindow/53_Maximum_Subarray.py)|Easy|
+|58|9.20|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/72_Edit_Distance.py)|Hard|
 
 </div></details>
 
