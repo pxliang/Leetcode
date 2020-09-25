@@ -69,6 +69,9 @@
 |56|9.19|1477|[Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)|[Python](https://github.com/pxliang/Leetcode/blob/master/SlidingWindow/1477_Find_Two_Non-overlapping_Subarrays_Each_with_Target_Sum.py)|Medium|
 |57|9.20|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/pxliang/Leetcode/blob/master/SlidingWindow/53_Maximum_Subarray.py)|Easy|
 |58|9.20|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/72_Edit_Distance.py)|Hard|
+|59|9.23|552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/552_Student_Attendance_Record_II.py)|Hard|
+|60|9.23|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/792_Number_of_Matching_Subsequences.py)|Medium|
+|61|9.24|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Math/914_X_of_a_Kind_in_a_Deck_of_Cards.py)|Easy|
 
 </div></details>
 
