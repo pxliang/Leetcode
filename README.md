@@ -73,6 +73,8 @@
 |60|9.23|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Python](https://github.com/pxliang/Leetcode/blob/master/String/792_Number_of_Matching_Subsequences.py)|Medium|
 |61|9.24|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Math/914_X_of_a_Kind_in_a_Deck_of_Cards.py)|Easy|
 |62|9.25|1153|[String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Graph/1153_String_Transofrms_into_Another_String.py)|Hard|
+|63|9.26|1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|[Python](https://github.com/pxliang/Leetcode/blob/master/List/1146_Snapshot_Array.py)|Medium|
+|64|9.27|1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Tree/1376_Time_Needed_to_Inform_All_Employees.py)|Medium|
 
 </div></details>
 
