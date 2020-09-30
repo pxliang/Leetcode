@@ -75,7 +75,7 @@
 |62|9.25|1153|[String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Graph/1153_String_Transofrms_into_Another_String.py)|Hard|
 |63|9.26|1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|[Python](https://github.com/pxliang/Leetcode/blob/master/List/1146_Snapshot_Array.py)|Medium|
 |64|9.27|1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Python](https://github.com/pxliang/Leetcode/blob/master/Tree/1376_Time_Needed_to_Inform_All_Employees.py)|Medium|
-|65|9.28|562|[Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/)|[Python]()|Medium|
+|65|9.28|562|[Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/)|[Python](https://github.com/pxliang/Leetcode/blob/master/DP/562_Longest_Line_of_Consecutive_One_in_Matrix.py)|Medium|
 
 </div></details>
 
